@@ -1,2 +1,2 @@
-# object-detect-dog-cat
-distinguish dogs from cats by CNN from images
+# Dog Cat Image Classifier
+distinguish dogs from cats images using CNN
